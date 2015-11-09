@@ -1,2 +1,5 @@
 # hello-world
-Starting with GitHub, again.
+
+Just following the instructions from the tutorial.
+
+I prefer rather not to write about myself.
